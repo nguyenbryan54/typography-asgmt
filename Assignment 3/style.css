@@ -84,7 +84,7 @@ blockquote::before {
   content: "“";
 }
 
-blockquote em { font-weight: bold; color: #ff9900; font-size: 68px; }
+blockquote em { font-weight: bold; color: #e91717; font-size: 68px; }
 
 
 .grid-main {
